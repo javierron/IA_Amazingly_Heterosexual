@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/scenes/Path Follower.unity
+  isLoaded: 1
+  isActive: 1
